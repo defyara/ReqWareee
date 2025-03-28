@@ -19,6 +19,9 @@ To make the DLL work**
 
 3. **Launch Counter-Strike 2 and start using ReqWare
 Bind menu "Insert"**
+
+**Subcribe my telegram channel cs2 -> https://t.me/reqwarecs2**
+**Subcribe my main telegram channel -> @perehodhellpc**
 -
 ## Screen
 
