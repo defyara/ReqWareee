@@ -21,6 +21,8 @@ To make the DLL work**
 Bind menu "Insert"**
 
 **Subcribe my telegram channel cs2 -> https://t.me/reqwarecs2**
+
+
 **Subcribe my main telegram channel -> @perehodhellpc**
 -
 ## Screen
