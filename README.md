@@ -24,4 +24,4 @@ Bind menu "Insert"**
 
 | Description | Image |
 |-------------|-------|
-| **Menu**     | <img src="./github/images/photo_2025-03-28_17-38-43.jpg" alt="Menu" width="600"> |
+| **Menu**     | <img src="ReqWaree/ReqWare-CS2/photo_2025-03-28_17-38-43.jpg" alt="Menu" width="600"> |
